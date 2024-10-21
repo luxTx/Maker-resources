@@ -5,6 +5,7 @@ A curated list of awesome maker software and resources.
 - Software
 - Youtube Tutorials
 - Hardware
+- PCB's - Printed circuit boards
 - Advice
 
 ## 💻 Software
@@ -31,6 +32,14 @@ Good hardware to start with, for smaller projects
 - Soldering iron (Pinecil OR TS80)
   - [Modular Pinecil Case](https://www.printables.com/model/1020983-pinecil-case-modular-edition/files)
 - 3D-Printer (Creality OR Prusa)
+
+## PCB's - Printed circuit boards
+### Manufacturers
+- [JLCPCB](https://jlcpcb.com/)
+- [PCBWay](https://www.pcbway.com/)
+### Web GerberViewer
+Can recommend to double check your gerber file in a different gerber viewer!
+- [PCBWay Web-GerberViewer](https://www.pcbway.com/project/OnlineGerberViewer.html)
 
 ## 💡 Advice
 - Get in touch with people who also enjoy making cool projects, for example, at hackspaces or maker conventions.
