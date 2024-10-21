@@ -11,10 +11,10 @@ A curated list of awesome maker software and resources.
 ## 💻 Software
 
 ### Open source & Free
-- Parametric 3D-Modeling: [FreeCAD](https://www.freecad.org/)
-- Electronics Design Automation Suite: [KiCad](https://www.kicad.org/)
-- Free Design tool(svg): [Inkscape](https://inkscape.org/)
-- Image Editor: [Gimp](https://www.gimp.org/)
+- Parametric 3D-Modeling: [FreeCAD](https://www.freecad.org/) - 3D Printing, part design
+- Electronics Design Automation Suite: [KiCad](https://www.kicad.org/) - PCB design
+- Free Design tool(svg): [Inkscape](https://inkscape.org/) - Graphics tool for the creation of vector files
+- Image Editor: [Gimp](https://www.gimp.org/) - Image editor for general image editing
 
 ### Closed source
 
@@ -38,7 +38,7 @@ Good hardware to start with, for smaller projects
 - [JLCPCB](https://jlcpcb.com/)
 - [PCBWay](https://www.pcbway.com/)
 ### Web GerberViewer
-Can recommend to double check your gerber file in a different gerber viewer!
+Recommend to verify your gerber file again using a different gerber viewer than KiCad!
 - [PCBWay Web-GerberViewer](https://www.pcbway.com/project/OnlineGerberViewer.html)
 
 ## 💡 Advice
