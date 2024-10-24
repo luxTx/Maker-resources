@@ -44,4 +44,4 @@ Recommend to verify your gerber file again using a different gerber viewer than 
 - [PCBWay Web-GerberViewer](https://www.pcbway.com/project/OnlineGerberViewer.html)
 
 ## 💡 Advice
-- Get in touch with people who also enjoy making cool projects, for example, at hackspaces or maker conventions.
+- Get in touch with people who also enjoy making projects, for example, at hackspaces or maker conventions.
